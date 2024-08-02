@@ -11,7 +11,8 @@
 	<groupId>com.Java</groupId>
 	<artifactId>LLD</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>LLD</name>
+    <packaging>pom</packaging>
+    <name>LLD</name>
 	<description>Java Low Level Designing Concepts</description>
 	<url/>
 	<licenses>
@@ -20,7 +21,13 @@
 	<developers>
 		<developer/>
 	</developers>
-	<scm>
+    <modules>
+        <module>Design Patterns</module>
+		<module>Low Level Design Interview Questions</module>
+		<module>Low Level Design Interview Questions/Food Delivery App Zomato Swiggy</module>
+        <module>Low Level Design Interview Questions/Vending Machine</module>
+    </modules>
+    <scm>
 		<connection/>
 		<developerConnection/>
 		<tag/>
