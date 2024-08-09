@@ -26,6 +26,7 @@
 		<module>Low Level Design Interview Questions</module>
 		<module>Low Level Design Interview Questions/Food Delivery App Zomato Swiggy</module>
         <module>Low Level Design Interview Questions/Vending Machine</module>
+        <module>Low Level Design Interview Questions/Library Management System</module>
     </modules>
     <scm>
 		<connection/>
